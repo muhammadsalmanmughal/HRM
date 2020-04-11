@@ -1,0 +1,14 @@
+C:\Users\jarvis\Desktop\DBproject\DB project\DB project\bin\Debug\DB project.exe.config
+C:\Users\jarvis\Desktop\DBproject\DB project\DB project\bin\Debug\DB project.exe
+C:\Users\jarvis\Desktop\DBproject\DB project\DB project\bin\Debug\DB project.pdb
+C:\Users\jarvis\Desktop\DBproject\DB project\DB project\obj\Debug\DB project.csprojResolveAssemblyReference.cache
+C:\Users\jarvis\Desktop\DBproject\DB project\DB project\obj\Debug\DB_project.Form1.resources
+C:\Users\jarvis\Desktop\DBproject\DB project\DB project\obj\Debug\DB_project.Properties.Resources.resources
+C:\Users\jarvis\Desktop\DBproject\DB project\DB project\obj\Debug\DB project.csproj.GenerateResource.Cache
+C:\Users\jarvis\Desktop\DBproject\DB project\DB project\obj\Debug\DB project.exe
+C:\Users\jarvis\Desktop\DBproject\DB project\DB project\obj\Debug\DB project.pdb
+C:\Users\jarvis\Desktop\DBproject\DB project\DB project\obj\Debug\DB_project.mainMDI.resources
+C:\Users\jarvis\Desktop\DBproject\DB project\DB project\obj\Debug\DB_project.CandidateInfo.resources
+F:\Projects DB\mydbprojects\DBproject\DB project\DB project\bin\Debug\DB project.exe.config
+F:\Projects DB\mydbprojects\DBproject\DB project\DB project\obj\Debug\DB project.exe
+F:\Projects DB\mydbprojects\DBproject\DB project\DB project\obj\Debug\DB project.pdb

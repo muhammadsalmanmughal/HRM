@@ -1,0 +1,70 @@
+C:\Users\jarvis\Desktop\DBproject\DBproject\bin\Debug\DBproject.exe.config
+C:\Users\jarvis\Desktop\DBproject\DBproject\bin\Debug\DBproject.exe
+C:\Users\jarvis\Desktop\DBproject\DBproject\bin\Debug\DBproject.pdb
+C:\Users\jarvis\Desktop\DBproject\DBproject\obj\Debug\DBproject.CandidateForm.resources
+C:\Users\jarvis\Desktop\DBproject\DBproject\obj\Debug\DBproject.DeleteForm.resources
+C:\Users\jarvis\Desktop\DBproject\DBproject\obj\Debug\DBproject.EmployeeForm.resources
+C:\Users\jarvis\Desktop\DBproject\DBproject\obj\Debug\DBproject.ControlPanel.resources
+C:\Users\jarvis\Desktop\DBproject\DBproject\obj\Debug\DBproject.Properties.Resources.resources
+C:\Users\jarvis\Desktop\DBproject\DBproject\obj\Debug\DBproject.csproj.GenerateResource.Cache
+C:\Users\jarvis\Desktop\DBproject\DBproject\obj\Debug\DBproject.exe
+C:\Users\jarvis\Desktop\DBproject\DBproject\obj\Debug\DBproject.pdb
+C:\Users\jarvis\Desktop\DBproject\DBproject\obj\Debug\DBproject.csprojResolveAssemblyReference.cache
+C:\Users\jarvis\Desktop\DBproject\DBproject\obj\Debug\DBproject.Extradetails.resources
+C:\Users\jarvis\Desktop\DBproject\DBproject\obj\Debug\DBproject.OrganizationChartform.resources
+C:\Users\jarvis\Desktop\DBproject\DBproject\obj\Debug\DBproject.Attendanceform.resources
+C:\Users\jarvis\Desktop\DBproject\DBproject\obj\Debug\DBproject.PayrollForm.resources
+F:\Projects DB\mydbprojects\DBproject\DBproject\bin\Debug\DBproject.exe.config
+F:\Projects DB\mydbprojects\DBproject\DBproject\obj\Debug\DBproject.exe
+F:\Projects DB\mydbprojects\DBproject\DBproject\obj\Debug\DBproject.pdb
+F:\Projects DB\mydbprojects\DBproject\DBproject\bin\Debug\DBproject.exe
+F:\Projects DB\mydbprojects\DBproject\DBproject\bin\Debug\DBproject.pdb
+F:\Projects DB\mydbprojects\DBproject\DBproject\obj\Debug\DBproject.csprojResolveAssemblyReference.cache
+F:\Projects DB\mydbprojects\DBproject\DBproject\obj\Debug\DBproject.Attendanceform.resources
+F:\Projects DB\mydbprojects\DBproject\DBproject\obj\Debug\DBproject.CandidateForm.resources
+F:\Projects DB\mydbprojects\DBproject\DBproject\obj\Debug\DBproject.DeleteForm.resources
+F:\Projects DB\mydbprojects\DBproject\DBproject\obj\Debug\DBproject.EmployeeForm.resources
+F:\Projects DB\mydbprojects\DBproject\DBproject\obj\Debug\DBproject.ControlPanel.resources
+F:\Projects DB\mydbprojects\DBproject\DBproject\obj\Debug\DBproject.Extradetails.resources
+F:\Projects DB\mydbprojects\DBproject\DBproject\obj\Debug\DBproject.OrganizationChartform.resources
+F:\Projects DB\mydbprojects\DBproject\DBproject\obj\Debug\DBproject.PayrollForm.resources
+F:\Projects DB\mydbprojects\DBproject\DBproject\obj\Debug\DBproject.Properties.Resources.resources
+F:\Projects DB\mydbprojects\DBproject\DBproject\obj\Debug\DBproject.csproj.GenerateResource.Cache
+F:\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\bin\Debug\DBproject.exe.config
+F:\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\obj\Debug\DBproject.exe
+F:\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\obj\Debug\DBproject.pdb
+F:\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\bin\Debug\DBproject.exe
+F:\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\bin\Debug\DBproject.pdb
+F:\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\obj\Debug\DBproject.csprojResolveAssemblyReference.cache
+F:\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\obj\Debug\DBproject.Attendanceform.resources
+F:\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\obj\Debug\DBproject.CandidateForm.resources
+F:\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\obj\Debug\DBproject.DeleteForm.resources
+F:\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\obj\Debug\DBproject.EmployeeForm.resources
+F:\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\obj\Debug\DBproject.ControlPanel.resources
+F:\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\obj\Debug\DBproject.Extradetails.resources
+F:\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\obj\Debug\DBproject.OrganizationChartform.resources
+F:\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\obj\Debug\DBproject.PayrollForm.resources
+F:\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\obj\Debug\DBproject.Properties.Resources.resources
+F:\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\obj\Debug\DBproject.csproj.GenerateResource.Cache
+E:\salman\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\bin\Debug\DBproject.exe.config
+E:\salman\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\obj\Debug\DBproject.exe
+E:\salman\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\obj\Debug\DBproject.pdb
+E:\salman\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\bin\Debug\DBproject.exe
+E:\salman\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\bin\Debug\DBproject.pdb
+E:\salman\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\bin\Debug\mscorlib.dll
+E:\salman\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\bin\Debug\normidna.nlp
+E:\salman\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\bin\Debug\normnfc.nlp
+E:\salman\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\bin\Debug\normnfd.nlp
+E:\salman\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\bin\Debug\normnfkc.nlp
+E:\salman\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\bin\Debug\normnfkd.nlp
+E:\salman\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\obj\Debug\DBproject.csprojResolveAssemblyReference.cache
+E:\salman\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\obj\Debug\DBproject.Attendanceform.resources
+E:\salman\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\obj\Debug\DBproject.CandidateForm.resources
+E:\salman\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\obj\Debug\DBproject.DeleteForm.resources
+E:\salman\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\obj\Debug\DBproject.EmployeeForm.resources
+E:\salman\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\obj\Debug\DBproject.ControlPanel.resources
+E:\salman\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\obj\Debug\DBproject.Extradetails.resources
+E:\salman\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\obj\Debug\DBproject.OrganizationChartform.resources
+E:\salman\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\obj\Debug\DBproject.PayrollForm.resources
+E:\salman\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\obj\Debug\DBproject.Properties.Resources.resources
+E:\salman\Desktop Applications\Projects DB\mydbprojects\DBproject well work\DBproject\obj\Debug\DBproject.csproj.GenerateResource.Cache
